@@ -30,7 +30,22 @@
       "ProjectGuid": "822c9e5f-8860-4489-ae76-45fd04b5d605",
       "DisplayName": "05_Classes",
       "ColorIndex": 4
+    },
+    "3389db50-40e3-439d-b624-558e671a413b": {
+      "ProjectGuid": "3389db50-40e3-439d-b624-558e671a413b",
+      "DisplayName": "06_RepositoryPattern_Repository",
+      "ColorIndex": 5
+    },
+    "e27e4e1b-4b7f-44f5-b56c-568b45075571": {
+      "ProjectGuid": "e27e4e1b-4b7f-44f5-b56c-568b45075571",
+      "DisplayName": "06_RepositoryPattern_Console",
+      "ColorIndex": 6
+    },
+    "be93ce92-85df-479a-809a-f37fd86dbe3d": {
+      "ProjectGuid": "be93ce92-85df-479a-809a-f37fd86dbe3d",
+      "DisplayName": "06_RepositoryPattern_Tests",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 8
 }

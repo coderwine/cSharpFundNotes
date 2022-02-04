@@ -1,0 +1,12 @@
+C:\Users\eric\Documents\practice\cSharp\CSharpFundamentals\06_RepositoryPattern_Repository\bin\Debug\net6.0\06_RepositoryPattern_Repository.deps.json
+C:\Users\eric\Documents\practice\cSharp\CSharpFundamentals\06_RepositoryPattern_Repository\bin\Debug\net6.0\06_RepositoryPattern_Repository.dll
+C:\Users\eric\Documents\practice\cSharp\CSharpFundamentals\06_RepositoryPattern_Repository\bin\Debug\net6.0\ref\06_RepositoryPattern_Repository.dll
+C:\Users\eric\Documents\practice\cSharp\CSharpFundamentals\06_RepositoryPattern_Repository\bin\Debug\net6.0\06_RepositoryPattern_Repository.pdb
+C:\Users\eric\Documents\practice\cSharp\CSharpFundamentals\06_RepositoryPattern_Repository\obj\Debug\net6.0\06_RepositoryPattern_Repository.csproj.AssemblyReference.cache
+C:\Users\eric\Documents\practice\cSharp\CSharpFundamentals\06_RepositoryPattern_Repository\obj\Debug\net6.0\06_RepositoryPattern_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric\Documents\practice\cSharp\CSharpFundamentals\06_RepositoryPattern_Repository\obj\Debug\net6.0\06_RepositoryPattern_Repository.AssemblyInfoInputs.cache
+C:\Users\eric\Documents\practice\cSharp\CSharpFundamentals\06_RepositoryPattern_Repository\obj\Debug\net6.0\06_RepositoryPattern_Repository.AssemblyInfo.cs
+C:\Users\eric\Documents\practice\cSharp\CSharpFundamentals\06_RepositoryPattern_Repository\obj\Debug\net6.0\06_RepositoryPattern_Repository.csproj.CoreCompileInputs.cache
+C:\Users\eric\Documents\practice\cSharp\CSharpFundamentals\06_RepositoryPattern_Repository\obj\Debug\net6.0\06_RepositoryPattern_Repository.dll
+C:\Users\eric\Documents\practice\cSharp\CSharpFundamentals\06_RepositoryPattern_Repository\obj\Debug\net6.0\ref\06_RepositoryPattern_Repository.dll
+C:\Users\eric\Documents\practice\cSharp\CSharpFundamentals\06_RepositoryPattern_Repository\obj\Debug\net6.0\06_RepositoryPattern_Repository.pdb
